@@ -318,7 +318,7 @@ Edit the text to match who can attend the workshop. For instance:
   first-serve basis.</li>
 
   <li>A confirmation email with payment detail will be sent on a
-  weekly basis from 1 August on wards. Registration will be final
+  weekly basis from 1 August on wards. <b>Registration will be final
   after payment</b>. We will not be able to refund the registration
   fees.</li>
 
